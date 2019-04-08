@@ -1,10 +1,9 @@
+> > This example is part of our [:notebook: custom elements guide](https://github.com/bpmn-io/bpmn-js-examples/tree/master/custom-elements). Checkout the final result [here](https://github.com/bpmn-io/bpmn-js-example-custom-elements).
+
+
 # bpmn-js Example: Custom Rendering
 
 An example of creating custom rendering for [bpmn-js](https://github.com/bpmn-io/bpmn-js). Custom rendering allows you to render any shape or connection the way you want.
-
-:notebook: You can find a more complex example that includes creating custom rendering [here](https://github.com/bpmn-io/bpmn-js-example-custom-elements).
-
-:notebook: For more examples of customizing elements head over to our examples [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples/tree/master/custom-elements).
 
 
 ## About
