@@ -3,6 +3,8 @@
 
 # bpmn-js Example: Custom Rendering
 
+[![CI](https://github.com/bpmn-io/bpmn-js-example-custom-rendering/workflows/CI/badge.svg)](https://github.com/bpmn-io/bpmn-js-example-custom-rendering/actions?query=workflow%3ACI)
+
 An example of creating custom rendering for [bpmn-js](https://github.com/bpmn-io/bpmn-js). Custom rendering allows you to render any shape or connection the way you want.
 
 
