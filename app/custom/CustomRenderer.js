@@ -3,7 +3,6 @@ import BaseRenderer from 'diagram-js/lib/draw/BaseRenderer';
 import {
   append as svgAppend,
   attr as svgAttr,
-  classes as svgClasses,
   create as svgCreate,
   remove as svgRemove
 } from 'tiny-svg';
