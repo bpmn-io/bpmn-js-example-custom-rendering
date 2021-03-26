@@ -15,7 +15,7 @@ const bpmnModeler = new BpmnModeler({
 });
 
 // import XML
-bpmnModeler.importXML(diagramXML, (err) => {
+bpmnModeler.importXML(diagramXML).catch((err) => {
   if (err) {
     console.error(err);
   }
