@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "bpmn-js": "^18.25.1",
-    "diagram-js": "^7.2.3",
+    "diagram-js": "^15.24.1",
     "tiny-svg": "^2.2.2"
   }
 }
