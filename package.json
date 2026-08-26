@@ -41,7 +41,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "bpmn-js": "^8.2.2",
+    "bpmn-js": "^18.25.1",
     "diagram-js": "^7.2.3",
     "tiny-svg": "^2.2.2"
   }
